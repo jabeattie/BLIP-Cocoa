@@ -1,6 +1,6 @@
 [submodule "vendor/MYUtilities"]
 	path = vendor/MYUtilities
-	url = git://github.com/snej/MYUtilities.git
+	url = git://github.com/jabeattie/MYUtilities.git
 [submodule "PocketSocket"]
 	path = vendor/PocketSocket
 	url = git://github.com/couchbasedeps/PocketSocket.git
